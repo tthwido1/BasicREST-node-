@@ -1,10 +1,7 @@
-
-----
 ##
 Run app 
 > npm run dev
 
-----
 ##
 MongoDB Shell
 
@@ -17,7 +14,6 @@ MongoDB Shell
 > db.subscribers.find().pretty()
 
 
-----
 ##
 cURLs
 
